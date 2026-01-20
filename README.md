@@ -72,4 +72,3 @@ This project was developed as part of an academic group assignment, focusing on:
 
 ## 🚀 How to open
 URL: https://vivi4na02l.github.io/Asteroids/
-- 
